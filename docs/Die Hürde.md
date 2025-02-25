@@ -12,9 +12,9 @@ authors:
 
 # Die Hürde
 
-**Gruppengröße:** 4 bis 20 Mitspieler
+**Gruppengröße:** 4 bis 20 Mitspieler 
 **Schwierigkeit:** mittel
-**Material:** Seil
+**Material:** Seil 
 **Spieldauer:** 5 bis 10 Minuten
 
 **Spielbeschreibung:**
@@ -22,3 +22,4 @@ Zwischen zwei festen Balken, Pfosten, Bäumen oder etwas Ähnlichem, wird ein Se
 
 Quelle:
 Tasifan Spielebuch
+
